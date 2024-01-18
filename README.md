@@ -1,2 +1,3 @@
-# Sophomore-Project-Quik-Finance-
-My contributions to finance application project
+# SophomoreProjectQuikFinance-
+CSI 2999 Sphomore project
+My contributions to our Quik Finance application
